@@ -1,5 +1,8 @@
 # POO-AP05
 
+# Problemas de Programação Orientada a Objetos (Associações e Herança)
+  Este documento apresenta dez problemas práticos para implementação de conceitos de Programação Orientada a Objetos, com foco em associações e herança. Cada problema aborda um domínio diferente, desde sistemas de biblioteca até plataformas de streaming, proporcionando exemplos variados para aprimorar suas habilidades em modelagem de classes, relacionamentos e polimorfismo.
+
 📂 Estrutura do Projeto
 
 /Exercicio 1 
